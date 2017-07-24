@@ -1,0 +1,11 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"oii\\category\\" : "src"
+		}
+	},
+	"name" : "oiisoft/oii-category",
+	"require" : {
+		"php" : ">=5.4"
+	}
+}
